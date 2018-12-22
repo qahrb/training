@@ -8,5 +8,5 @@ int main(){
     // Cakes with one oven
     while(1){
         if
-    }
+    }?
 }
