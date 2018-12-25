@@ -1,4 +1,4 @@
-*
-!*.cpp
-!*.py
-!.gitignore/
+.vscode/
+venv/
+*.o
+*.pyc
